@@ -1,5 +1,5 @@
 ---
-title: "MUSA 5080 Portfolio"
+title: "CPLN 5920 Portfolio"
 ---
 
 # Welcome to My Portfolio
@@ -15,8 +15,12 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+Arushi Sood
+
+B.S. in Political Science, concentrations in Public Policy, Pyschology, Public Health, and Urban Studies.
+
+I am taking this course to learn more about R and develop quantitative skills to bring to the public sector. 
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: sood9@design.upenn.edu
+- GitHub: @arushiisooD
